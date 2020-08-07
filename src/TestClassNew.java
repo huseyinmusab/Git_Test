@@ -3,5 +3,6 @@ public class TestClassNew {
             System.out.println("Git den merhaba");
          System.out.println("GitHubb dan merhaba");
         System.out.println("Ihsan iyi bir kardesimiz");
+        System.out.println("Ihsan cok iyi bir kardesimiz");
     }
 }
